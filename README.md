@@ -1,2 +1,2 @@
 # myFirstRepo
-Stupid file
+Master line
